@@ -9,7 +9,7 @@ isolated environment and we want to run multiple containers on a instance.
 A Docker container running our Flask service in AWS
 
 Please write the required Terraform configuration files to do this including any Dockerfiles and scripts, you can package this up
-as a .tar.gz to send it over. We don't expect you to spend a long time on this but please be descriptive in what you would of done
+as a .tar.gz to send it over. We don't expect you to spend a long time on this but please be descriptive in what you would have done
 if time allowed.
 
 A narrative of the approach taken
